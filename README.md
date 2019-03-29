@@ -23,5 +23,8 @@ Presenter : Larry Peterson, Eric Brewer
 3. gRPC
 4. Apache SkyWalking 
 5. App mesh AWS
+6. Inventory managent - BESPOKE
+7. Sidecar in VM
+
 ```
 
