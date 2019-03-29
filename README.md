@@ -25,6 +25,7 @@ Presenter : Larry Peterson, Eric Brewer
 5. App mesh AWS
 6. Inventory managent - BESPOKE
 7. Sidecar in VM
-
+8. NGAC - RBAC
+9. Network service mesh - networksericemesh.io github.com/networkservicemesh
 ```
 
